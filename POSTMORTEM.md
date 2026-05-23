@@ -21,3 +21,5 @@ LangGraph is just a well-engineered version of harness.py.
 Building the raw loop first made everything in LangGraph click instantly.
 Understanding what happens under the hood is the difference between
 an engineer who can debug production issues and one who can't.
+there are many ways to build ai harness
+
